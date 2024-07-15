@@ -1,8 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5017069.svg)](https://doi.org/10.5281/zenodo.5017069)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexliberzonlab/Multiscale_Ulva/master?filepath=Notebooks)
-
-
 # Multiscale_Ulva
 Code and data of multiscale Ulva model
 
@@ -107,13 +102,3 @@ Code and data of multiscale Ulva model
 
 
         pip install -r requirement.txt
-
-
-
-## How to cite this work
-
-      Please cite our publication: 
-      Zollmann, M., Rubinsky, B., Liberzon, A., & Golberg, A. (2021). Multi-Scale Modeling of Intensive Macroalgae Cultivation and Marine Nitrogen Sequestration. Communications Biology http://doi.org/10.1038/s42003-021-02371-z
-      
-      Please cite our code using DOI: http://doi.org/10.5281/zenodo.5017069
-
